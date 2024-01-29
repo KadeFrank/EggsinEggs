@@ -6,7 +6,7 @@
 
 (iii) This programme is provided for academic and research purposes only, not for any commercial use. User can modify and improve this programme, only if the modifications are also open sourced. The author wishes all user can work together to improve the programme.
 
-(iv)Mistakes may be found in the codes because now it is only a one-man’s work. If you find anything wrong in the codes, please let the author know. Appreciate a lot.
+(iv) Mistakes may be found in the codes because now it is only a one-man’s work. If you find anything wrong in the codes, please let the author know. Appreciate a lot.
 
 **Have you seen an egg inside an egg?**
 
@@ -23,7 +23,9 @@ https://youtu.be/5oetf4SETsw
 **What’s the connection between the weird egg with this project?**
 
 Herein, we are not intended to discuss the biology problem but only use it to understand the appearance of our mathematical model. This project is trying to establish the relationship between the forces and displacements of an object, which may be a foundation or structure. Imagine if there’s more eggs, layers insider layers. And a bug is lay at the centre, marked as the red point O, as shown below. 
-  
+
+![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/2663f45b-2ae9-4a43-a6b1-67b242afb902)
+
 Now the bug starts from point O, as shown below, moving until reaches the shell of the the inner-most egg at point A, and then it drags the eggshell along with it until reaches another shell at point B, then point C and D. Afterwards, the bug turns to the opposite direction, through E, F and G, to H.
   	  
  	 
