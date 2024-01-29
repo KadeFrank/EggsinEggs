@@ -1,11 +1,15 @@
 **Brief description**
 
 (i) EggsinEggs is a mechanical model for establishing the force-displacement relationships of a physical object, programmed in Python 3. It is under development and will be updated in the future.
+
 (ii) It aims to help the numerical calculation in terms of cyclic loading and long-term prediction. It is fast and easy to use. Details of how to use this programme will be given at “Documentaiton.pdf”
+
 (iii) This programme is provided for academic and research purposes only, not for any commercial use. User can modify and improve this programme, only if the modifications are also open sourced. The author wishes all user can work together to improve the programme.
+
 (iv)Mistakes may be found in the codes because now it is only a one-man’s work. If you find anything wrong in the codes, please let the author know. Appreciate a lot.
 
 **Have you seen an egg inside an egg?**
+
 Although quite rare, it is happened occasionally all around the world that a hen may have a giant egg with another tiny egg inside, as some pictures and videos were uploaded to the internet:
  ![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/2796bf2b-d6d5-40f7-a2a8-64cf0415fb2f)
 https://youtu.be/_wubgAIiWpY
