@@ -41,9 +41,14 @@ This model is originally established for simulating the single bucket (as shown 
 **Reference**
 
 Houlsby, G. T., Abadie, C. N., Beuckelaers, W. J. A. P., & Byrne, B. W. (2017). A model for nonlinear hysteretic and ratcheting behaviour. International Journal of Solids and Structures, 120, 67-80.
+
 Iwan, W. D. (1967). On a class of models for the yielding behavior of continuous and composite systems. J. Appl. Mech. 34, 612-617.
+
 Page, A. M., Grimstad, G., Eiksund, G. R., Jostad, H. P. (2018). A macro-element pile foundation model for integrated analyses of monopile-based offshore wind turbines. Ocean Engineering, 167:23–35.
+
 Page, A. M., Skau, K. S., Jostad, H. P., & Eiksund, G. R. (2017). A new foundation model for integrated analyses of monopile-based offshore wind turbines. Energy Procedia, 137, 100-107.
+
 Skau, K. S., Grimstad, G., Page, A. M., Eiksund, G. R., & Jostad, H. P. (2018). A macro-element for integrated time domain analyses representing bucket foundations for offshore wind turbines. Marine Structures, 59, 158-178.
+
 Zhang, C., Wang, D., & Zheng, J. (2023). A cyclic-softening macro element model for mono-bucket foundations supporting offshore wind turbines in clay. Computers and Geotechnics, 161, 105603.
 
