@@ -27,9 +27,14 @@ Herein, we are not intended to discuss the biology problem but only use it to un
 ![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/2663f45b-2ae9-4a43-a6b1-67b242afb902)
 
 Now the bug starts from point O, as shown below, moving until reaches the shell of the the inner-most egg at point A, and then it drags the eggshell along with it until reaches another shell at point B, then point C and D. Afterwards, the bug turns to the opposite direction, through E, F and G, to H.
-  	  
- 	 
+
+![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/afad1b21-0b13-4692-9910-ca9929b2e784)![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/60a5dd1a-2e2d-4c24-a986-2827bc193067)
+
+![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/8199bebb-3ed2-4460-b17a-b48332e47ecd)![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/0a16d2bb-07a4-4976-979c-3978f87b7bef)
+
 The moving distance represents the forces applied to this object, and the corresponding displacement is obtained by the damping property of the mobilized eggshells, which is defined in the model. Now, a very simple force-displacement (F-u) relationship is established, as shown below.
+
+![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/3eea6a7b-2e32-4ba5-a5d1-cf71b6f6c629)
  
 The model originates from the Iwan model (Iwan, 1967) and has been adopted by recent research of the foundations of offshore foundations (Houlsby et al., 2017; Page et al., 2017; 2018; Skau et al., 2018; Zhang et al., 2023). The model presented in Houlsby et al. (2017) is already open sourced on github as the HyperDrive:
 https://github.com/guyhoulsby/HyperDrive/tree/master
@@ -37,6 +42,8 @@ https://github.com/guyhoulsby/HyperDrive/tree/master
 **What can this model do?**
 
 This model is originally established for simulating the single bucket (as shown below) of multi-bucket foundations of offshore wind turbines. Hysteric loops and damping ratios can be predicted under cyclic loading. The soil softening and anisotropy is considered. With very high computational efficiency, the load-displacement relationships for 1000 cycles of cyclic loading are predicted in 10 minutes, overcame the drawbacks of the traditional Finite-element method.
+
+![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/3e529783-cc71-4ae6-a704-7b794cadb67f)
  
 **Reference**
 
