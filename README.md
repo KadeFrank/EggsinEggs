@@ -35,6 +35,10 @@ Now the bug starts from point O, as shown below, moving until reaches the shell 
 The moving distance represents the forces applied to this object, and the corresponding displacement is obtained by the damping property of the mobilized eggshells, which is defined in the model. Now, a very simple force-displacement (F-u) relationship is established, as shown below.
 
 ![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/3eea6a7b-2e32-4ba5-a5d1-cf71b6f6c629)
+
+To model a softened load-displacement loop, the eggshells are contracted, as shown below.
+
+![1倍速](https://github.com/KadeFrank/EggsinEggs/assets/125382994/6880d475-0d68-42bb-ae7c-81680dffd671)
  
 The model originates from the Iwan model (Iwan, 1967) and has been adopted by recent research of the foundations of offshore foundations (Houlsby et al., 2017; Page et al., 2017; 2018; Skau et al., 2018; Zhang et al., 2023). The model presented in Houlsby et al. (2017) is already open sourced on github as the HyperDrive:
 https://github.com/guyhoulsby/HyperDrive/tree/master
