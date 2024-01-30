@@ -49,7 +49,7 @@ This model is originally established for simulating the single bucket (as shown 
 
 ![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/3e529783-cc71-4ae6-a704-7b794cadb67f)
  
-**Reference**
+**References**
 
 Houlsby, G. T., Abadie, C. N., Beuckelaers, W. J. A. P., & Byrne, B. W. (2017). A model for nonlinear hysteretic and ratcheting behaviour. International Journal of Solids and Structures, 120, 67-80.
 
