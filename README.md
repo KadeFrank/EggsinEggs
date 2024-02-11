@@ -8,6 +8,23 @@
 
 (iv) Mistakes may be found in the codes because now it is only a one-man’s work. If you find anything wrong in the codes, please let the author know. Appreciate a lot.
 
+**Installation**
+
+Prerequisites: Python 3, git, python IDE (PyCharm recommended)
+
+Python 3: https://www.python.org/downloads/
+
+git: https://git-scm.com/download/win
+
+PyCharm: https://www.jetbrains.com/pycharm/download/
+
+pip install required python packages: time, numpy, matplotlib, sympy, copy, xlwt
+
+Create your working directory and Git clone https://github.com/KadeFrank/EggsinEggs
+
+Make sure the *.py files are in the same directory.
+
+
 **Have you seen an egg inside an egg?**
 
 Although quite rare, it is happened occasionally all around the world that a hen may have a giant egg with another tiny egg inside, as some pictures and videos were uploaded to the internet:
