@@ -33,10 +33,6 @@ Although quite rare, it is happened occasionally all around the world that a hen
  
 https://youtu.be/_wubgAIiWpY
 
-https://youtu.be/FLt7bLIgv9o
-
-https://youtu.be/5oetf4SETsw
-
 **What’s the connection between the weird egg with this project?**
 
 Herein, we are not intended to discuss the biology problem but only use it to understand the appearance of our mathematical model. This project is trying to establish the relationship between the forces and displacements of an object, which may be a foundation or structure. Imagine if there’s more eggs, layers insider layers. And a bug is lay at the centre, marked as the red point O, as shown below. 
@@ -49,7 +45,7 @@ Now the bug starts from point O, as shown below, moving until reaches the shell 
 
 ![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/8199bebb-3ed2-4460-b17a-b48332e47ecd)![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/0a16d2bb-07a4-4976-979c-3978f87b7bef)
 
-The moving distance represents the forces applied to this object, and the corresponding displacement is obtained by the damping property of the mobilized eggshells, which is defined in the model. Now, a very simple force-displacement (F-u) relationship is established, as shown below.
+The moving distance represents the forces applied to this object, and the corresponding displacement is obtained by the plastic property in terms of the mobilized eggshells, which is defined in the model. Now, a very simple force-displacement (F-u) relationship is established, as shown below.
 
 ![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/3eea6a7b-2e32-4ba5-a5d1-cf71b6f6c629)
 
@@ -62,7 +58,7 @@ https://github.com/guyhoulsby/HyperDrive/tree/master
 
 **What can this model do?**
 
-This model is originally established for simulating the single bucket (as shown below) of multi-bucket foundations of offshore wind turbines. Hysteric loops and damping ratios can be predicted under cyclic loading. The soil softening and anisotropy is considered. With very high computational efficiency, the load-displacement relationships for 1000 cycles of cyclic loading are predicted in 10 minutes, overcame the drawbacks of the traditional Finite-element method.
+This model is originally established for simulating the single bucket (as shown below) of multi-bucket foundations of offshore wind turbines. Hysteresis loops can be predicted under cyclic loading. The soil softening and anisotropy is considered. With very high computational efficiency, the load-displacement relationships for 1000 cycles of cyclic loading are predicted in 10 minutes, overcame the drawbacks of the traditional Finite-element method.
 
 ![image](https://github.com/KadeFrank/EggsinEggs/assets/125382994/3e529783-cc71-4ae6-a704-7b794cadb67f)
  
