@@ -1,6 +1,6 @@
 **Brief description**
 
-(i) EggsinEggs is a mechanical model for establishing the force-displacement relationships of a physical object, programmed in Python 3. It is under development and will be updated in the future.
+(i) EggsinEggs is an elasto-plastic mechanical model for establishing the force-displacement relationships of a physical object, programmed in Python 3. It is under development and will be updated in the future.
 
 (ii) It aims to help the numerical calculation in terms of cyclic loading and long-term prediction. It is fast and easy to use. Details of how to use this programme will be given at “Documentaiton.pdf”
 
